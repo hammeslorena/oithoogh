@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aevevooph.abey.me/sitemap.xml
